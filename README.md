@@ -13,6 +13,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [按鍵綁定](#按鍵綁定)
 * [相關筆記](#相關筆記)
 
 
@@ -23,6 +24,16 @@
 | 微調腳本 |
 | -------- |
 | [Fedora Labwc](https://github.com/samwhelp/fedora-labwc-adjustment/tree/main/prototype/main/labwc-config/Main) |
+
+
+
+
+## 按鍵綁定
+
+| 按鍵綁定 |
+| ------ |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-fedora-labwc/read/config/keybind.html) |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-fedora-labwc/read/config/mousebind.html) |
 
 
 
