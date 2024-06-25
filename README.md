@@ -23,7 +23,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Fedora Labwc](https://github.com/samwhelp/fedora-labwc-adjustment/tree/main/prototype/main/labwc-config/Main) |
+| [Fedora Labwc Config](https://github.com/samwhelp/fedora-labwc-adjustment/tree/main/prototype/main/labwc-config/Main) |
 
 
 
